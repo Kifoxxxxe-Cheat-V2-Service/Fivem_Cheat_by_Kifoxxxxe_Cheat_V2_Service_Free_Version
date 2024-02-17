@@ -1,0 +1,164 @@
+﻿  main.cpp
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\dxsdk\Include\dxgitype.h(12,1): warning C4005: 'DXGI_STATUS_OCCLUDED' : redéfinition de macro
+  (compiler le fichier source 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58160,1):
+  voir la définition précédente de 'DXGI_STATUS_OCCLUDED'
+  
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\dxsdk\Include\dxgitype.h(13,1): warning C4005: 'DXGI_STATUS_CLIPPED' : redéfinition de macro
+  (compiler le fichier source 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58169,1):
+  voir la définition précédente de 'DXGI_STATUS_CLIPPED'
+  
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\dxsdk\Include\dxgitype.h(14,1): warning C4005: 'DXGI_STATUS_NO_REDIRECTION' : redéfinition de macro
+  (compiler le fichier source 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58178,1):
+  voir la définition précédente de 'DXGI_STATUS_NO_REDIRECTION'
+  
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\dxsdk\Include\dxgitype.h(15,1): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS' : redéfinition de macro
+  (compiler le fichier source 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58187,1):
+  voir la définition précédente de 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+  
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\dxsdk\Include\dxgitype.h(16,1): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE' : redéfinition de macro
+  (compiler le fichier source 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58196,1):
+  voir la définition précédente de 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+  
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\dxsdk\Include\dxgitype.h(17,1): warning C4005: 'DXGI_STATUS_MODE_CHANGED' : redéfinition de macro
+  (compiler le fichier source 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58205,1):
+  voir la définition précédente de 'DXGI_STATUS_MODE_CHANGED'
+  
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\dxsdk\Include\dxgitype.h(18,1): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS' : redéfinition de macro
+  (compiler le fichier source 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58214,1):
+  voir la définition précédente de 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+  
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\dxsdk\Include\dxgitype.h(21,1): warning C4005: 'DXGI_ERROR_INVALID_CALL' : redéfinition de macro
+  (compiler le fichier source 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58229,1):
+  voir la définition précédente de 'DXGI_ERROR_INVALID_CALL'
+  
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\dxsdk\Include\dxgitype.h(22,1): warning C4005: 'DXGI_ERROR_NOT_FOUND' : redéfinition de macro
+  (compiler le fichier source 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58238,1):
+  voir la définition précédente de 'DXGI_ERROR_NOT_FOUND'
+  
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\dxsdk\Include\dxgitype.h(23,1): warning C4005: 'DXGI_ERROR_MORE_DATA' : redéfinition de macro
+  (compiler le fichier source 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58247,1):
+  voir la définition précédente de 'DXGI_ERROR_MORE_DATA'
+  
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\dxsdk\Include\dxgitype.h(24,1): warning C4005: 'DXGI_ERROR_UNSUPPORTED' : redéfinition de macro
+  (compiler le fichier source 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58256,1):
+  voir la définition précédente de 'DXGI_ERROR_UNSUPPORTED'
+  
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\dxsdk\Include\dxgitype.h(25,1): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED' : redéfinition de macro
+  (compiler le fichier source 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58265,1):
+  voir la définition précédente de 'DXGI_ERROR_DEVICE_REMOVED'
+  
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\dxsdk\Include\dxgitype.h(26,1): warning C4005: 'DXGI_ERROR_DEVICE_HUNG' : redéfinition de macro
+  (compiler le fichier source 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58274,1):
+  voir la définition précédente de 'DXGI_ERROR_DEVICE_HUNG'
+  
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\dxsdk\Include\dxgitype.h(27,1): warning C4005: 'DXGI_ERROR_DEVICE_RESET' : redéfinition de macro
+  (compiler le fichier source 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58284,1):
+  voir la définition précédente de 'DXGI_ERROR_DEVICE_RESET'
+  
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\dxsdk\Include\dxgitype.h(28,1): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING' : redéfinition de macro
+  (compiler le fichier source 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58293,1):
+  voir la définition précédente de 'DXGI_ERROR_WAS_STILL_DRAWING'
+  
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\dxsdk\Include\dxgitype.h(29,1): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT' : redéfinition de macro
+  (compiler le fichier source 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58303,1):
+  voir la définition précédente de 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+  
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\dxsdk\Include\dxgitype.h(30,1): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE' : redéfinition de macro
+  (compiler le fichier source 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58312,1):
+  voir la définition précédente de 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+  
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\dxsdk\Include\dxgitype.h(31,1): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR' : redéfinition de macro
+  (compiler le fichier source 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58322,1):
+  voir la définition précédente de 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+  
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\dxsdk\Include\dxgitype.h(32,1): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE' : redéfinition de macro
+  (compiler le fichier source 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58331,1):
+  voir la définition précédente de 'DXGI_ERROR_NONEXCLUSIVE'
+  
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\dxsdk\Include\dxgitype.h(33,1): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE' : redéfinition de macro
+  (compiler le fichier source 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58340,1):
+  voir la définition précédente de 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+  
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\dxsdk\Include\dxgitype.h(34,1): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED' : redéfinition de macro
+  (compiler le fichier source 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58350,1):
+  voir la définition précédente de 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+  
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\dxsdk\Include\dxgitype.h(35,1): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY' : redéfinition de macro
+  (compiler le fichier source 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58359,1):
+  voir la définition précédente de 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+  
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\dxsdk\Include\d3d11.h(917,1): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS' : redéfinition de macro
+  (compiler le fichier source 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58665,1):
+  voir la définition précédente de 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+  
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\dxsdk\Include\d3d11.h(918,1): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND' : redéfinition de macro
+  (compiler le fichier source 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58674,1):
+  voir la définition précédente de 'D3D11_ERROR_FILE_NOT_FOUND'
+  
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\dxsdk\Include\d3d11.h(919,1): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS' : redéfinition de macro
+  (compiler le fichier source 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58684,1):
+  voir la définition précédente de 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+  
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\dxsdk\Include\d3d11.h(920,1): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD' : redéfinition de macro
+  (compiler le fichier source 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58693,1):
+  voir la définition précédente de 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+  
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\dxsdk\Include\d3d10.h(608,1): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS' : redéfinition de macro
+  (compiler le fichier source 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58641,1):
+  voir la définition précédente de 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+  
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\dxsdk\Include\d3d10.h(609,1): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND' : redéfinition de macro
+  (compiler le fichier source 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58650,1):
+  voir la définition précédente de 'D3D10_ERROR_FILE_NOT_FOUND'
+  
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\main.hpp(68,117): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+  (compiler le fichier source 'main.cpp')
+  
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\main.hpp(68,104): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+  (compiler le fichier source 'main.cpp')
+  
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\main.hpp(68,68): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+  (compiler le fichier source 'main.cpp')
+  
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\main.hpp(68,34): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+  (compiler le fichier source 'main.cpp')
+  
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\main.cpp(29,242): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\main.cpp(29,229): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\main.cpp(29,199): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\main.cpp(29,142): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\ImGui\main.cpp(37,11): warning C4101: 'mouse' : variable locale non référencée
+  Génération de code en cours
+  1 of 1309 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    20 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  ImGui.vcxproj -> C:\Users\Kifoxxxxe\Desktop\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\Fivem_Cheat_by_Kifoxxxxe_Cheat_V2_Service_Free_Version\release\ImGui.exe
